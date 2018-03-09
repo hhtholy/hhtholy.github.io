@@ -13,13 +13,15 @@ keywords: hibernate,java
 一个entity实体或者POJO类中包含着对其他类的引用(数据库中一对多或者多对多关系等)
 dept对象关联staff集合 hibernate自动检索出staff的数据。  sql语句如下:
 
-``java
+```java
      Dept d = (Dept) session.get(Dept.class,2);
    　d.getStaffSet().size();
-``
+```
     
 
- ![img](imgs/blog/javaEE/2018_03_08hibernateQuery.PNG)
+<img src="/imgs/blog/javaEE/2018_03_08hibernateQuery.PNG" width="80%" alt="检索sql语句" />
+
+ 
 
 1. 以人为主体没错，但是要有远有近，拍出来全是脸和上半身也不好。
 2. 偶尔兼顾景色，不是所有情况下虚化背景都是加分。
