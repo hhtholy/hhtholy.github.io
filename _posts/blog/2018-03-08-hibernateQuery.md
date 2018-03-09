@@ -15,14 +15,14 @@ dept对象关联staff集合 hibernate自动检索出staff的数据。  sql语句
 
 ```java
      Dept d = (Dept) session.get(Dept.class,2);
-   　d.getStaffSet().size();
+     d.getStaffSet().size();
 ```
     
 
-<img src="/imgs/blog/javaEE/2018_03_08hibernateQuery.PNG" width="80%" alt="检索sql语句" />
+<img src="/images/blog/javaEE/2018_03_08hibernateQuery.PNG" width="80%" alt="检索sql语句" />
 
- 
-
+ma
+e
 1. 以人为主体没错，但是要有远有近，拍出来全是脸和上半身也不好。
 2. 偶尔兼顾景色，不是所有情况下虚化背景都是加分。
 3. 一般情况下色彩鲜艳的衣服拍出来会更好看。
