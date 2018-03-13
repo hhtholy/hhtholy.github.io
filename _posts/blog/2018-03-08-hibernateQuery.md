@@ -6,7 +6,7 @@ description: hibernate面试
 keywords: hibernate,java
 ---
 
-### 导航对象检索方式
+### 导航对象检索方式11111
 
 >1、根据已经加载的对象导航到其他对象
 
