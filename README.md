@@ -1,6 +1,6 @@
-# 码志
+# 你好
 
-我的个人博客：<http://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<http://mazhuang.org>，引自马壮同学博客<http://mazhuang.org>
 
 ## 概览
 
