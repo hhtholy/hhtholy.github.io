@@ -2,9 +2,11 @@
 layout: post
 title: hibernate的检索方式
 categories: Blog
-description: hibernate面试
-keywords: hibernate,java
+description: hibernate的检索方式
+keywords: java,hibernate
 ---
+
+
 
 ### 导航对象检索方式
 
